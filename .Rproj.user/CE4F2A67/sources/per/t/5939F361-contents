@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Archaeology
+  - course: PhD (Archaeology)
     year: 2017
-  - course: MA Palaeolithic Archaeology and Human Origins
+  - course: MA (Palaeolithic Archaeology/Human Origins)
     year: 2013
-  - course: BSc Archaeology
+  - course: BSc (Archaeology)
     year: 2012
 
 # Social/Academic Networking
