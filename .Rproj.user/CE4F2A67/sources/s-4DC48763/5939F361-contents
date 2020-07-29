@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include prehistoric archaeology, R-based methodologies and artefact shape analysis.
 
 interests:
 - Quantitative Archaeology
-- Technological (Lithic) Analysis
+- Technological Lithic Analysis
 - Geometric Morphometrics (GMM)
 - Cultural Evolution and Cultural Transmission Studies
 
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD (Archaeology)
     year: 2017
-  - course: MA (Palaeolithic Archaeology/Human Origins)
+  - course: MA (Palaeolithic Archaeology)
     year: 2013
   - course: BSc (Archaeology)
     year: 2012
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Christian Steven Hoggard is a visiting fellow at the University of Southampton. His research interests include quantitative archaeology, geometric morphometric applications to archaeological science, R-based approaches to Palaeolithic studies and Cultural Evolution. A frequent workshop-lead, Christian teaches on statistics, shape analysis and early prehistory.
+Christian Steven Hoggard is a Visiting Fellow at the University of Southampton. His research interests include quantitative archaeology, geometric morphometric applications to archaeological science, and R-based approaches to Palaeolithic studies and Cultural Evolution. A frequent workshop-lead, Christian teaches and publishes on statistics, shape analysis and early prehistory.
