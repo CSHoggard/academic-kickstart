@@ -23,8 +23,8 @@ bio: My research interests include prehistoric archaeology, R-based methodologie
 interests:
 - Quantitative Archaeology
 - Technological Lithic Analysis
-- Geometric Morphometrics (GMM)
-- Cultural Evolution and Cultural Transmission Studies
+- Geometric Morphometrics
+- Cultural Evolution
 
 education:
   courses:
