@@ -1,0 +1,101 @@
++++
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
+
+title = "Recent Publications"
+subtitle = ""
+
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "publication"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+    
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+--- 
+
+Eggers-Kaas, T., **Hoggard, C.S.**, and Riede, F. (2020). Flygtige Federmesser. Betragninger om at skelne mellem senpalæolitiske Federmesser og tidlig mesolitiske lancetspidser. *Tings Tale* 2: 29–39. (https://www.forskningsdatabasen.dk/en/catalog/2525832806)
+
+Ivanovaite, L., Swertka, K., **Hoggard, C.S.**, Sauer, F. and Riede, F. (2020). All these fantastic cultures? Research history and regionalisation in the Late Palaeolithic tanged point cultures of Eastern Europe. *European Journal of Archaeology*, 23 (2): 162-185. (https://doi.org/10.1017/eaa.2019.59).
+
+**Hoggard, C.S.**, Lauridsen, L. and Witte, K.B. (2019). The Potential of Geometric Morphometrics for Danish Archaeology: Two Case Studies. *Arkæologisk Forum*, 40:  30-42. (http://www.archaeology.dk/16738/Nr.%2040%20-%202019). 
+
+**Hoggard, C.S.**, McNabb, J. and Cole, J.N. (2019). The application of elliptic Fourier analysis in understanding biface shape and symmetry through the British Acheulean. *Journal of Paleolithic Archaeology*, 2 (2): 115-133. (https://doi.org/10.1007/s41982-019-00024-6).
+
+Eggers-Kaas, T., Pedersen, J.B., **Hoggard, C.S.**, Sauer, F., Hilgart, J. and Riede, F. (2019). A Technological and Typological Analysis of Lithic Material from Skovmosen I, Denmark. *Danish Journal of Archaeology*, 8: 1-18. (https://doi.org/10.7146/dja.v8i0.112232).
+
+Vestergaard, C. and **Hoggard, C.S.** (2019). A Novel Geometric Morphometric (GMM) Application to the Study of Bronze Age Tutuli. *Danish Journal of Archaeology*, 8: 5-28. (https://tidsskrift.dk/dja/article/view/112494/164318).
+
+Riede, F., **Hoggard, C.S.** and Shennan, S. (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. *Nature: Palgrave Communications*, 5 (1): 55. (https://doi.org/10.1057/s41599-019-0260-7).
+
+**Hoggard, C.S.** and Stade, C.M. (2018). The efficiency Of Middle Palaeolithic technological blade strategies: an experimental investigation. *Lithics: the journal of the Lithic Studies Society*, 39: 52-67. (http://journal.lithics.org/index.php/lithics/article/view/737).
+
+Ivanovaite, L., Jensen, M.P.B., Philippsen, B., **Hoggard, C.S.**, Enghild, J.J., Scavenius, C., Vasiliauskaite, A., Dručkuvienė, G., Jensen, P., Maring, R., Dodd, J.A., Serwatka, K. and Riede, F. (2018). Making silent bones speak: the analysis of orphaned osseous tools illustrated with Mesolithic stray finds. *Archaeologica Baltica*, 24: 35-52. (http://dx.doi.org/10.15181/ab.v25i0.1830).
+
+Riede, F., Sauer, F. and **Hoggard, C.S.** (2018). Rockshelters and the impact of the Laacher See eruption on Late Pleistocene foragers. *Antiquity*, 365 (92): e2. (https://doi.org/10.15184/aqy.2018.217).
+
+Richardson, L-J., **Hoggard, C.S.** and Rocks-Macqueen, D. (2018). *What do UK archaeologists think of public engagement? A Landward Research Occasional Paper*. Landward Research Occasional Paper 002. Landward Research Ltd. ISSN 2631-3081. (http://www.landward.eu/wp-content/uploads/sites/6/2018/08/LRop002_Richardson-etal_2018.pdf).
+
+McNabb, J., Cole, J. and **Hoggard, C.S.** (2018). From side to side: symmetry in handaxes in the British Lower and Middle Palaeolithic. *Journal of Archaeological Science: Reports*, 17: 293-310. (https://doi.org/10.1016/j.jasrep.2017.11.008).
+
+**Hoggard, C.S.** (2017). Considering the function of Middle Palaeolithic blade technologies through an examination of experimental blade edge angles. *Journal of Archaeological Science: Reports*, 16: 233-239. (https://doi.org/10.1016/j.jasrep.2017.10.003). 
+
+**Hoggard**, C.S. (2015). Book Review: The Emergence of Pressure Blade Making (Pierre M. Desrosiers). *The Journal of Lithic Studies*, 2 (1): 159-160. (https://doi.org/10.2218/jls.v2i1.1128 ). 
+
+**Hoggard, C.S.** (2014).  Revisiting the ‘Big Deal about Blades’: a full contextualisation of prismatic (volumetric laminar) technology before MOIS 5. *The Post Hole*, 35: 28-35. (https://www.theposthole.org/read/article/255). 
+
