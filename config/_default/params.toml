@@ -96,7 +96,7 @@ address = {street = "Department of Archaeology and Anthropology, Avenue Campus",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.9288344", longitude = "-1.404963""
+coordinates = {latitude = "50.9288344", longitude = "-1.404963"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
