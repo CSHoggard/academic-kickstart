@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Christian Steven Hoggard
+title: Dr. Christian Hoggard
 
 # Username (this should match the folder name)
 authors:
