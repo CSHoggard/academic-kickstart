@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R Methodologies"
+  name = "R-based Methodologies"
   description = ""
   
 [[feature]]
