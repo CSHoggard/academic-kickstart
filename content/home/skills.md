@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R-based Methodologies"
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "R, GitHub and Markdown"
   description = ""
   
 [[feature]]
