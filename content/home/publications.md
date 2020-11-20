@@ -68,6 +68,11 @@ subtitle = ""
 +++
 
 --- 
+Chan, B., Gibaja, J.F., García-Díaz, V., **Hoggard, C.S**., Mazzucco, N., Rowland, J.T. and Van Gijn, A. (submitted). Towards an understanding of retouch flakes: a use-wear blind test on knapped stone microdebitage. *PLoS ONE*.
+
+**Hoggard, C.S.**, Birch, T., Stade, C.M., Janin, K.G. and Riede, F. (accepted). Evaluating the Suitability of Lithic Illustrations in Morphometric Analyses. *Lithics: The Journal of The Lithic Studies Society.
+
+**Hoggard, C.S.** and Riede, F. (2020). Understanding 'typologically awkward' assemblages in the Final Palaeolithic. *PAST: The Proceedings of The Prehistoric Society*, 96: 8-9. http://www.prehistoricsociety.org/publications/publication/past_96_autumn_2020/
 
 Eggers-Kaas, T., **Hoggard, C.S.**, and Riede, F. (2020). Flygtige Federmesser. Betragninger om at skelne mellem senpalæolitiske Federmesser og tidlig mesolitiske lancetspidser. *Tings Tale* 2: 29–39. https://www.forskningsdatabasen.dk/en/catalog/2525832806
 
