@@ -68,9 +68,10 @@ subtitle = ""
 +++
 
 --- 
-Chan, B., Gibaja, J.F., García-Díaz, V., **Hoggard, C.S**., Mazzucco, N., Rowland, J.T. and Van Gijn, A. (submitted). Towards an understanding of retouch flakes: a use-wear blind test on knapped stone microdebitage. *PLoS ONE*.
 
 **Hoggard, C.S.**, Birch, T., Stade, C.M., Janin, K.G. and Riede, F. (accepted). Evaluating the Suitability of Lithic Illustrations in Morphometric Analyses. *Lithics: The Journal of The Lithic Studies Society.
+
+Chan, B., Gibaja, J.F., García-Díaz, V., **Hoggard, C.S**., Mazzucco, N., Rowland, J.T. and Van Gijn, A. (2020). Towards an understanding of retouch flakes: a use-wear blind test on knapped stone microdebitage. *PLoS ONE* 15(12): e0243101.  https://doi.org/10.1371/journal.pone.0243101
 
 **Hoggard, C.S.** and Riede, F. (2020). Understanding 'typologically awkward' assemblages in the Final Palaeolithic. *PAST: The Proceedings of The Prehistoric Society*, 96: 8-9. http://www.prehistoricsociety.org/publications/publication/past_96_autumn_2020/
 
