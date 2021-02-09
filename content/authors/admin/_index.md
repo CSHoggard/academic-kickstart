@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Fellow
+role: Senior Data Insight Analysis and Archaeologist
 
 # Organizations/Affiliations
 organizations:
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Christian Steven Hoggard is a Visiting Fellow at the University of Southampton. His research interests include quantitative applications to archaeological science, particularly geometric morphometric applications to artefact analysis, and R-based approaches to Palaeolithic studies and Cultural Evolution. A frequent workshop-lead, Christian teaches and publishes on statistics, shape analysis and early prehistory.
+Christian Steven Hoggard is a Senior Data Insight Analyst and Visiting Fellow at the University of Southampton. His research interests include quantitative applications to archaeological science, specifically geometric morphometric applications to artefact analysis, and R-based approaches to Palaeolithic studies and Cultural Evolution. A frequent workshop-lead, Christian teaches and publishes on statistics, shape analysis and early prehistory.
