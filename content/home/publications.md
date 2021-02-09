@@ -79,7 +79,7 @@ Eggers-Kaas, T., **Hoggard, C.S.**, and Riede, F. (2020). Flygtige Federmesser. 
 
 Ivanovaite, L., Swertka, K., **Hoggard, C.S.**, Sauer, F. and Riede, F. (2020). All these fantastic cultures? Research history and regionalisation in the Late Palaeolithic tanged point cultures of Eastern Europe. *European Journal of Archaeology*, 23 (2): 162-185. https://doi.org/10.1017/eaa.2019.59
 
-**Hoggard, C.S.**, Lauridsen, L. and Witte, K.B. (2019). The Potential of Geometric Morphometrics for Danish Archaeology: Two Case Studies. *Arkæologisk Forum*, 40:  30-42. http://www.archaeology.dk/upl/16761/AF4006ChristianStevenHoggardLineLauridsenandKatrineBuhrkalWitteSRTRYK.pdf
+**Hoggard, C.S.**, Lauridsen, L. and Witte, K.B. (2019). The Potential of Geometric Morphometrics for Danish Archaeology: Two Case Studies. *Arkæologisk Forum*, 40:  30-42. http://www.archaeology.dk/16738/Nr.%2040%20-%202019 
 
 **Hoggard, C.S.**, McNabb, J. and Cole, J.N. (2019). The application of elliptic Fourier analysis in understanding biface shape and symmetry through the British Acheulean. *Journal of Paleolithic Archaeology*, 2 (2): 115-133. https://doi.org/10.1007/s41982-019-00024-6
 
