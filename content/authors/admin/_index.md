@@ -18,8 +18,9 @@ bio: Christian Steven Hoggard is a computational archaeologist and senior data i
 
 # Interests to show in About widget
 interests:
-- R-based Data Science Approaches
+- R-based Data Science
 - Quantitative Archaeology
+- Cultural Evolution
 - Data Visualisation
 
 # Education to show in About widget
@@ -70,5 +71,5 @@ email: ""
 highlight_name: false
 ---
 
-Christian Steven Hoggard is a computational archaeologist and senior data insight analyst at the University of Southampton (UK). Christian is interested in quantitative approaches to the past, R-based approaches to data science, and data visualisation.
+Christian Steven Hoggard is a computational archaeologist and a Senior Data Insight Analyst at the University of Southampton (UK). Christian is interested, and has published on, quantitative approaches to the past, concentrating on phylogenetic and morphometric approaches to artefact variation. Christian is also interested in R-based approaches to data science, and data visualisation.
 
