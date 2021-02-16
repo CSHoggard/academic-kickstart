@@ -23,16 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Data Insight Analyst
-    company: University of Southampton
+    company: Strategy, Planning & Institutional Research (University of Southampton)
     company_url: ''
     location: Hampshire (UK)
     date_start: '2021-03-24'
     date_end: ''
         
-  - title: Professor
-    company: University X
+  - title: Lecturer (Casual)
+    company: University of Winchester
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Department of Archaeology, Anthropology and Geography (University of Winchester)
+    date_start: '2020-01-03'
+    date_end: '2020-06-01'
 ---
