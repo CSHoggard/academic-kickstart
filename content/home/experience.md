@@ -30,9 +30,23 @@ experience:
     date_end: ''
         
   - title: Lecturer (Casual)
-    company: University of Winchester
+    company: Department of Archaeology, Anthropology and Geography (University of Winchester)
     company_url: ''
-    location: Department of Archaeology, Anthropology and Geography (University of Winchester)
+    location: Hampshire (UK)
     date_start: '2020-01-03'
     date_end: '2020-06-01'
+    
+  - title: Assistant Professor
+    company: Department of Archaeology and Heritage Studies (Aarhus University)
+    company_url: ''
+    location: Aarhus (DK)
+    date_start: '2019-01-31'
+    date_end: '2019-05-01'
+    
+  - title: Postdoctoral Researcher in Artefact Morphometrics
+    company: Department of Archaeology and Heritage Studies (Aarhus University)
+    company_url: ''
+    location: Aarhus (DK)
+    date_start: '2017-01-31'
+    date_end: '2019-01-31'    
 ---
