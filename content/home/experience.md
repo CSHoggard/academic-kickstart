@@ -21,29 +21,17 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
   - title: Senior Data Insight Analyst
     company: University of Southampton
+    company_url: ''
     location: Hampshire (UK)
     date_start: '2021-03-24'
-    date_end:
+    date_end: ''
   
   - title: Lecturer (Casual)
     company: University of Winchester
+    company_url: ''
     location: Hampshire (UK)
     date_start: '2020-01-31'
     date_end: '2020-06-31'
-        
-  - title: Assistant Professor
-    company: Aarhus University
-    location: Aarhus (DK)
-    date_start: '2019-01-31'
-    date_end: '2019-05-01'
-
-  - title: Post-doctoral Researcher in Artefact Morphometrics
-    company: Aarhus University
-    location: Aarhus (DK)
-    date_start: '2017-01-31'
-    date_end: '2019-01-31'
-    
 ---
