@@ -30,18 +30,18 @@ organizations:
     url: https://www.southampton.ac.uk/
 education:
   courses:
-    - course: Ph.D. Archaeology
+    - course: PhD Archaeology
       institution: University of Southampton
       year: 2016
-    - course: M.A. Palaeo. Arch. & Human Origins
+    - course: MA Palaeo. Arch. & Human Origins
       institution: University of Southampton
       year: 2013
-    - course: B.A. (Hons) Archaeology
+    - course: BA (Hons) Archaeology
       institution: University of Southampton
       year: 2012
 superuser: true
 highlight_name: false
-title: Christian Steven Hoggard
+title: Christian Hoggard
 email: ""
 ---
 Christian Steven Hoggard is a computational archaeologist and Senior Data Insight Analyst at the University of Southampton (UK). Christian is interested, and has published on, quantitative approaches to the past, focusing on phylogenetic and morphometric approaches to artefact variation. Christian is also interested in R-based approaches to data science, specifically data transformation, analysis and data visualisation.

@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R-based Approaches
 - description: 100%
-  icon: chart-line
+  icon: chart-bar
   icon_pack: fas
-  name: Statistics
+  name: Data Science
 - description: 10%
-  icon: camera-retro
+  icon: chart-area
   icon_pack: fas
-  name: Photography
+  name: Data Visualisation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
