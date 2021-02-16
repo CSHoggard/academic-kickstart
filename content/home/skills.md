@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: inc. RMarkdown and RSQLite
   icon: r-project
   icon_pack: fab
   name: R-based Approaches
-- description: 100%
+- description: inc. statistics and machine learning
   icon: chart-bar
   icon_pack: fas
   name: Data Science
-- description: 10%
+- description: inc. R, HTML and CSS
   icon: chart-area
   icon_pack: fas
   name: Data Visualisation
