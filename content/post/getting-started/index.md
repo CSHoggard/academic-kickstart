@@ -23,9 +23,9 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [V&A Museum](https://collections.vam.ac.uk/item/O78889/strawberry-thief-furnishing-fabric-morris-william/)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
