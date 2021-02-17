@@ -3,7 +3,7 @@ title: William Morris palettes for the R Environment (morris)
 subtitle: 🎨 Six new colour schemes for the tidyverse 🎨
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: The package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris.
 
 # Link this post with a project
 projects: []
