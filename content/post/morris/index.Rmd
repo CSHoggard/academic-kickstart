@@ -1,5 +1,5 @@
 ---
-title: Introducing 🎨📦 morris 📦🎨 : William Morris palettes for ggplot2
+title: Introducing 🎨📦 morris 📦🎨 : William Morris palettes for the R Environment
 subtitle: Some new palettes for ggplot2 graphics
 
 summary: New palettes for ggplot2 graphics
@@ -16,12 +16,12 @@ lastmod: "2021-02-17"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ""
+  caption: "The Holland Park Design (The Met Museum)"
   focal_point: ""
   placement: 2
   preview_only: false
@@ -39,4 +39,4 @@ categories:
 
 ## Overview
 
-This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris. William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the British Arts and Crafts movement. Rooted in the Modern Style (British Art Nouveau), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe.
+This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist **William Morris**. William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the British Arts and Crafts movement. Rooted in the Modern Style (British Art Nouveau), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe.
