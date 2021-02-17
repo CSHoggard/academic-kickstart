@@ -28,7 +28,7 @@ publication_types:
   - "2"
 authors:
   - Felix Riede
-  - Christian Hoggard
+  - Christian Steven Hoggard
   - Stephen Shennan
 summary: ""
 url_dataset: ""
