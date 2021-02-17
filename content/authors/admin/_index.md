@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD Archaeology
       institution: University of Southampton
-      year: 2016
+      year: 2017
     - course: MA Palaeo. Arch. & Human Origins
       institution: University of Southampton
       year: 2013
