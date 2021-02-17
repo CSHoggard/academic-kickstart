@@ -3,7 +3,7 @@ title: 🎨📦 morris: new William Morris palettes for ggplot2 📦🎨
 subtitle: Bringing the Arts & Crafts Movement to the tidyverse
 
 # Summary for listings and search engines
-summary: This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris. William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the British Arts and Crafts movement. Rooted in the Modern Style (British Art Nouveau), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe.
+summary: This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris. 
 
 # Link this post with a project
 projects: []
