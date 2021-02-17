@@ -1,29 +1,37 @@
 ---
-title: "Introducing 🎨📦 morris 📦🎨 : William Morris palettes for ggplot2"
-author: Christian Steven Hoggard
-date: '2021-02-17'
-slug: morris-palettes
-categories:
-  - rstats
-  - dataviz
-tags:
-  - rstats
-  - dataviz
-subtitle: ''
-summary: "New palettes for ggplot2 graphics"
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: true
-projects: []
----
+title: Introducing 🎨📦 morris 📦🎨 : William Morris palettes for ggplot2
+subtitle: []
 
-```{r setup, include=FALSE}
-library(knitr)
-knitr::opts_chunk$set(cache = TRUE, warning = FALSE, message = FALSE, 
-                      echo = TRUE, dpi = 300, cache.lazy = FALSE,
-                      tidy = "styler", fig.width = 8, fig.height = 5)
-library(scales)
-library(tidyverse)
-theme_set(theme_plex)
+summary: New palettes for ggplot2 graphics
+
+projects: []
+
+# Date published
+date: "2021-02-17"
+
+# Date updated
+lastmod: "2021-02-17"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: true
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+- admin
+
+tags:
+- rstats
+- dataviz
+
+categories:
+---
