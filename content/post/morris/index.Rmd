@@ -1,6 +1,6 @@
 ---
 title: Introducing 🎨📦 morris 📦🎨 : William Morris palettes for ggplot2
-subtitle: []
+subtitle: Some new palettes for ggplot2 graphics
 
 summary: New palettes for ggplot2 graphics
 
@@ -34,6 +34,7 @@ tags:
 - dataviz
 
 categories:
+-rstats
 ---
 
 ## Overview
