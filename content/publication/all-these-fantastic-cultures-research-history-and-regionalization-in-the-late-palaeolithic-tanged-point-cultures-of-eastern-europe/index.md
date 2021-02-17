@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 publication: European Journal of Archaeology
 featured: true
-date: 2021-02-17T16:12:08.970Z
+date: 2020-01-01T16:12:00.000Z
 url_slides: ""
 title: All these fantastic cultures? Research history and regionalization in the
   late Palaeolithic tanged point cultures of Eastern Europe
