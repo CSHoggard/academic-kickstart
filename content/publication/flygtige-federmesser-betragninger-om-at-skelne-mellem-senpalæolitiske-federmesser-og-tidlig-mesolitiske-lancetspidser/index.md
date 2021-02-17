@@ -16,7 +16,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: Tings Tale
-featured: true
+featured: false
 date: 2020-01-01T16:17:00.000Z
 url_slides: ""
 title: "Flygtige Federmesser: Betragninger om at skelne mellem senpalæolitiske
