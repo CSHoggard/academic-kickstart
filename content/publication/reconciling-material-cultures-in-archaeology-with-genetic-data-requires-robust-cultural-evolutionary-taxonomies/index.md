@@ -39,7 +39,7 @@ url_source: ""
 url_video: ""
 publication: "Nature: Palgrave Communications"
 featured: true
-date: 2021-02-17T16:23:45.683Z
+date: 2019-01-01T16:23:00.000Z
 url_slides: ""
 title: Reconciling material cultures in archaeology with genetic data requires
   robust cultural evolutionary taxonomies
