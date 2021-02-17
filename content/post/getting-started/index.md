@@ -1,5 +1,5 @@
 ---
-title: Introducing William Morris palettes for ggplot2
+title: Introducing William Morris palettes for the R Environment
 subtitle: Test
 
 # Summary for listings and search engines
