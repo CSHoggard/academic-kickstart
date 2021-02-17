@@ -1,5 +1,5 @@
 ---
-title: Introducing William Morris palettes for the R Environment
+title: William Morris palettes for the R Environment (morris)
 subtitle: Test
 
 # Summary for listings and search engines
