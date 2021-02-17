@@ -3,7 +3,7 @@ title: 🎨📦 morris: new William Morris palettes for ggplot2 📦🎨
 subtitle: Bringing the Arts & Crafts Movement to the tidyverse
 
 # Summary for listings and search engines
-summary: This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris. 
+summary: test
 
 # Link this post with a project
 projects: []
