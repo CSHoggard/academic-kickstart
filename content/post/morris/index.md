@@ -9,10 +9,10 @@ summary: six new ggplot2-friendly palettes for the R Environment
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-12-13"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-13"
 
 # Is this an unpublished draft?
 draft: false
