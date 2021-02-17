@@ -1,6 +1,6 @@
 ---
 title: William Morris palettes for the R Environment (morris)
-subtitle: Test
+subtitle: Six new colour schemes for ggplot (Work In Progress)
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
