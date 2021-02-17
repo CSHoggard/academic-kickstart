@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: 🎨📦 morris: new William Morris palettes for ggplot2 📦🎨
 subtitle: Bringing the Arts & Crafts Movement to the tidyverse
-=======
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
->>>>>>> parent of 4784599 (testing)
 
 # Summary for listings and search engines
 summary: This package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist William Morris. 
