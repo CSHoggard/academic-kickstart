@@ -1,7 +1,7 @@
 ---
-role: Senior Data Insight Analyst & Archaeologist
-bio: Christian Steven Hoggard is a computational archaeologist and senior data
-  insight analyst at the University of Southampton. Christian is interested in
+role: Senior Data Insight Analyst & Computational Archaeologist
+bio: Dr. Christian Steven Hoggard is a computational archaeologist and Senior Data
+  Insight Analyst at the University of Southampton. Christian is interested in
   quantitative approaches to the past, R-based approaches to data science, and
   data visualisation.
 interests:
