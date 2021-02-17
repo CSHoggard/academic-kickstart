@@ -44,7 +44,7 @@ categories:
 
 The package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist [William Morris](https://en.wikipedia.org/wiki/William_Morris). William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the [British Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement). Rooted in the [Modern Style (British Art Nouveau)](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe. 
 
-{{< figure src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/comparison.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/comparison.png" title="Left: Acanthus [V&A Museum](https://collections.vam.ac.uk/item/O78222/acanthus-wallpaper-morris-william/). Right: Colour Breakdown (extracted using the `magick` and `imager` packages" >}}
 
 ```
 Test 
