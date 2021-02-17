@@ -1,5 +1,5 @@
 ---
-title: Introducing William Morris palettes for ggplot2
+title: Introducing morris:<br>William Morris palettes for ggplot2
 subtitle: Test
 
 # Summary for listings and search engines
