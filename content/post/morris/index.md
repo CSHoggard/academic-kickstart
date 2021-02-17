@@ -44,7 +44,7 @@ categories:
 
 The package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist [William Morris](https://en.wikipedia.org/wiki/William_Morris). William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the [British Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement). Rooted in the [Modern Style (British Art Nouveau)](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe. 
 
-{{< figure src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/comparison.png" title="Left: Acanthus (1875). V&A Museum no. E.496-1919 [V&A Museum](https://collections.vam.ac.uk/item/O78222/acanthus-wallpaper-morris-william/). Right: Colour Breakdown (extracted using the `magick` and `imager` packages)" >}}
+{{< figure src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/comparison.png" title="Left: Acanthus (1875). V&A Museum no. E.496-1919 [V&A Museum](https://collections.vam.ac.uk/item/O78222/acanthus-wallpaper-morris-william/). Right: Colour breakdown tables (extracted using functions in the `magick` and `imager` packages)" >}}
 
 
 # Installation  
@@ -59,53 +59,53 @@ A further five of William Morris' most famous works are included:
 
 **Strawberry Thief** (1883). V&A Museum no. T.586-1919.  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/st.jpg" width="300" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/st.jpg" width="400" />  
 
 ``` r
 scales::show_col(morris:::strawberry_palette)
 ```
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/strawberry_chart.jpeg" width="600" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/strawberry_chart.jpeg" width="700" />  
 
 **Trellis** (1864). V&A Museum no. E.452-1919.  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/t.jpg" width="300" /> 
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/t.jpg" width="400" /> 
 
 ``` r
 scales::show_col(morris:::trellis_palette)
 ```  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/trellis_chart.jpeg" width="600" /> 
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/trellis_chart.jpeg" width="700" /> 
 
 **Holland Park** (1883). Met Museum no. 27.139.3.  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/hp.jpg" width="300" /> 
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/hp.jpg" width="400" /> 
 
 ``` r
 scales::show_col(morris:::holland_palette)
 ```
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/holland_chart.jpeg" width="600" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/holland_chart.jpeg" width="700" />  
 
 **Peacock and Dragons** (1878). WMG no. F26e.  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/pd.jpg" width="300" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/pd.jpg" width="400" />  
 
 ``` r
 scales::show_col(morris:::peacock_palette)
 ```
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/peacock_chart.jpeg" width="600" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/peacock_chart.jpeg" width="700" />  
 
 **Embroidery with Flowers and Leaves (Leek Embroidery Society)** (1885-1895). Rijksmuseum no. BK-1994-28.  
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/fl.jpg" width="300" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/fl.jpg" width="400" />  
 
 ``` r
 scales::show_col(morris:::flowers_palette)
 ```
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/flowers_chart.jpeg" width="600" /> 
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/flowers_chart.jpeg" width="700" /> 
 
   
 ## An example:
@@ -144,7 +144,7 @@ penguins %>%
         legend.position = "bottom")
 ```
 
-<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/Example.png" width="900" />  
+<img src="https://raw.githubusercontent.com/CSHoggard/morris/main/readme_files/Example.png" width="1200" />  
 
 
 
