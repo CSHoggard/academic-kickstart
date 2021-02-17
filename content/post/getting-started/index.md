@@ -1,6 +1,6 @@
 ---
-title: Introducing morris:<br>William Morris palettes for ggplot2
-subtitle: Test
+title: Introducing morris: William Morris aesthetics for the R Environment
+subtitle: Six new Arts and Crafts Movement palettes
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
