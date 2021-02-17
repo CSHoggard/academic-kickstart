@@ -1,6 +1,6 @@
 ---
-title: 🎨📦 morris 📦🎨 : William Morris palettes for the R Environment
-subtitle: Introducing: morris (new palettes for ggplot2)
+title: Introducing morris: William Morris palettes for the R Environment
+subtitle: Six new ggplot2-friendly palettes
 
 # Summary for listings and search engines
 summary: six new ggplot2-friendly palettes for the R Environment
@@ -36,8 +36,7 @@ tags:
 
 categories:
 - rstats
-- data visualisation
-
+- dataviz
 ---
 
 ## Overview
