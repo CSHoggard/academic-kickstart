@@ -1,87 +1,56 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: The retouching and resharpening of lithic tools during their
+  production and maintenance leads to the production of large numbers of small
+  flakes and chips known as microdebitage. Standard analytical approaches to
+  this material involves the mapping of microartefact densities to identify
+  activity areas, and the creation of techno-typologies to characterise the form
+  of retouch flakes from different types of tools. Whilst use-wear analysis is a
+  common approach to the analysis of tools, it has been applied much less
+  commonly to microdebitage. This paper contends that the use-wear analysis of
+  microdebitage holds great potential for identifying activity areas on
+  archaeological sites, representing a relatively unexplored analytical resource
+  within microartefact assemblages. In order to test the range of factors that
+  affect the identification of use-wear traces on small retouch flakes, a blind
+  test consisting of 40 retouch flakes was conducted. The results show that wear
+  traces can be identified with comparable levels of accuracy to those reported
+  for historic blind tests of standard lithic tools suggesting that the use-wear
+  analysis of retouch flakes can be a useful analytical tool in understanding
+  site function, and in increasing sample sizes in cases where assemblages
+  contain few tools.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Benjamin Chan
+  - Juan Francisco Gibaja
+  - Virginia García-Díaz
+  - Christian Steven Hoggard
+  - Niccolò Mazzucco
+  - Jake Thomas Rowland
+  - Annelou Van Gijn
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: ""
+url_video: ""
+publication: PLoS ONE
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2021-02-17T16:05:47.054Z
+url_slides: ""
+title: "Towards an understanding of retouch flakes: A use-wear blind test on
+  knapped stone microdebitage"
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: " https://doi.org/10.1371/journal.pone.0243101"
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
