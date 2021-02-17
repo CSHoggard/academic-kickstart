@@ -1,6 +1,6 @@
 ---
 title: William Morris palettes for the R Environment (morris)
-subtitle: Six new colour schemes for ggplot
+subtitle: Six new colour schemes for the tidyverse
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -32,10 +32,12 @@ authors:
 - admin
 
 tags:
-- Academic
+- morris
+- rstats
 
 categories:
-- Demo
+- morris
+- rstats
 ---
 
 ## Overview
