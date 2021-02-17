@@ -29,7 +29,7 @@ url_source: ""
 url_video: ""
 publication: Arkæologisk Forum
 featured: false
-date: 2029-01-01T16:34:00.000Z
+date: 2019-01-01T16:34:00.000Z
 url_slides: ""
 title: "The Potential of Geometric Morphometrics in Danish Archaeology: Two Case
   Studies"
