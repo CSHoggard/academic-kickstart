@@ -40,11 +40,9 @@ categories:
 - rstats
 ---
 
-## Overview
+## The morris package
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+The package provides a number of palettes for ggplot2 inspired by the British textile designer, poet, novelist and activist [William Morris](https://en.wikipedia.org/wiki/William_Morris). William Morris (1834-1896) was a major contributor to the revival of traditional British textile arts and is best associated with the [British Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement). Rooted in the [Modern Style (British Art Nouveau)](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)), the Arts and Crafts movement was known for traditional craftsmanship, often using medieval, romantic and folk styles of decoration. Known for its advocation of economic and social reform, the movement was strongly anti-industrial, and prior to the 1930s had a strong influence on the arts in Europe. 
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
