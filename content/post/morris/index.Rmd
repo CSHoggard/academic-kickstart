@@ -2,15 +2,17 @@
 title: Introducing 🎨📦 morris 📦🎨 : William Morris palettes for the R Environment
 subtitle: Some new palettes for ggplot2 graphics
 
+# Summary for listings and search engines
 summary: New palettes for ggplot2 graphics
 
+# Link this post with a project
 projects: []
 
 # Date published
-date: "2021-02-17"
+date: "2021-02-17T00:00:00Z"
 
 # Date updated
-lastmod: "2021-02-17"
+lastmod: "2021-02-17T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -28,13 +30,15 @@ image:
 
 authors:
 - admin
+- 吳恩達
 
 tags:
-- rstats
-- dataviz
+- Academic
+- 开源
 
 categories:
--rstats
+- Demo
+- 教程
 ---
 
 ## Overview
