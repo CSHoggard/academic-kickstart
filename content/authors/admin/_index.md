@@ -5,7 +5,7 @@ bio: Dr. Christian Steven Hoggard is a computational archaeologist and Senior Da
   quantitative approaches to the past, R-based approaches to data science, and
   data visualisation.
 interests:
-  - R-based Data Science
+  - R-Based Data Science
   - Quantitative Archaeology
   - Cultural Evolution
   - Data Visualisation
